@@ -89,7 +89,7 @@ To find the total memory locations (space) taken by main 100e0 – 100bo =     3
 3C (hex) = 48 (decimal) <br>
 No of instructions = (101C0 – 10184)/4 = 12 (divide by 4 because each instruction is taking 4 bytes) <br>
 
-The number of assembly instructions generated is 15 with option -O1 <br>
+The number of assembly instructions generated is 12 with option -Ofast <br>
 
 
 
