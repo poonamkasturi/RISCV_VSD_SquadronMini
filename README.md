@@ -81,8 +81,6 @@ Run the commands again In tab 2 to examine the assembly code generated <br>
 ![image](https://github.com/user-attachments/assets/678d4fae-351e-450f-a4da-2059b7b7d393)
 
 type     /main <br>
-![image](https://github.com/user-attachments/assets/0f3a7b3f-74b3-49b5-89a0-4849054af368)
-
 Highlight main and press n to find where all it is <br> 
 ![image](https://github.com/user-attachments/assets/ebee73fc-e401-470d-b174-c9e12e0e202e)
 
